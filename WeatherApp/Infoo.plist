@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WeatherAPIKey</key>
+	<string>af5d7e7542312ed1cd0760723bedb77b</string>
+	<key>UIUserInterfaceStyle</key>
+	<string>Automatic</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need access to your location to provide weather updates</string>
+</dict>
+</plist>
