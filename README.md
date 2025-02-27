@@ -24,3 +24,9 @@ git clone https://github.com/Nic815/weather-app.git
 3.Run the App
   -Select iPhone Simulator in Xcode.
   -Press ⌘ + R to build and run.
+## DemoVideo
+
+
+
+https://github.com/user-attachments/assets/d576879a-6355-45f2-bf59-3247d3fea702
+
